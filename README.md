@@ -25,5 +25,5 @@ To use the "Show My Location" app, you need:
 - Xcode 12 or later for development and testing.
 
 ### Author
-- This project was developed by me as part of my programming assignment (Assignment #6).
+- This project was made by me as part of my programming assignment (Assignment #6).
 
